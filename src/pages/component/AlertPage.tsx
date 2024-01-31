@@ -4,7 +4,7 @@ type Props = {};
 
 const AlertPage = (props: Props) => {
   return (
-    <div>AlertPage hi</div>
+    <div>AlertPage</div>
   );
 };
 
